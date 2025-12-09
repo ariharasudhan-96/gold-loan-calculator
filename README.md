@@ -37,9 +37,9 @@ A beginner-friendly Python project using Tkinter GUI and MySQL database.
 Run these SQL commands in MySQL:
 
 ```sql
-CREATE DATABASE gold_loan_db;
+CREATE DATABASE gold_loan;
 
-USE gold_loan_db;
+USE gold_loan;
 
 CREATE TABLE loan_history (
     id INT AUTO_INCREMENT PRIMARY KEY,
